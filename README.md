@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Viviana Moreno!
 
-<!--
-**VivisBusiness/VivisBusiness** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a **Frontend Developer** experienced in **Angular** and **ReactJS**, currently expanding into **Backend Development** using **NestJS** and **MongoDB**.
 
-Here are some ideas to get you started:
+### 🚀 What I'm working on:
+- **Verzalo Frontend** – Modular API built with NestJS & MongoDB
+- **Verzalo Backend** – UI built with Angular
+- **Personal Portfolio** – Developed with ReactJS (coming soon!)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack I enjoy:
+- **Frontend**: ReactJS, Angular, TypeScript, SCSS
+- **Backend**: Node.js, NestJS, MongoDB
+- **Tools**: Git, GitHub, Figma, Azure DevOps, Postman
+
+### 🌐 Find me at:
+- [LinkedIn](https://www.linkedin.com/in/viviana-moreno-gordillo/)
+- [GitHub](https://github.com/vivis97mg)
+- [CodePen](https://codepen.io/Vivis97)
+
+---
+
+> “I’m building my own path in tech, one project at a time.”
